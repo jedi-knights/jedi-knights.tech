@@ -58,7 +58,7 @@ jobs:
 
       - name: Lint commit message
         run: |
-          npx commitlint --last --verbose
+          git log -1 --pretty=%B | npx commitlint --verbose
 
       - name: Build with Hugo
         env:
