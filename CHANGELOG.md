@@ -1,3 +1,16 @@
+## [1.1.0](https://github.com/jedi-knights/jedi-knights.tech/compare/1.0.0...1.1.0) (2026-08-18)
+
+
+### Features
+
+* **neovim:** add Neovim distributions and plugins section ([#3](https://github.com/jedi-knights/jedi-knights.tech/issues/3)) ([6670d0c](https://github.com/jedi-knights/jedi-knights.tech/commit/6670d0cadfd8b4d8b08591fcd1e0b6200700f158))
+
+
+### Bug Fixes
+
+* **nav:** show Neovim section in main menu ([71fcf3d](https://github.com/jedi-knights/jedi-knights.tech/commit/71fcf3d8b3460fd01b703d19b2420206f1c4928a))
+* **theme:** replace deprecated Hugo APIs that broke the build ([#4](https://github.com/jedi-knights/jedi-knights.tech/issues/4)) ([c5af7e8](https://github.com/jedi-knights/jedi-knights.tech/commit/c5af7e8d2034545067c085e9dba81ef4a9ed0c2c))
+
 ## 1.0.0 (2023-10-06)
 
 
