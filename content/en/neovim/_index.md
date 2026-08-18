@@ -3,6 +3,7 @@ title: "Neovim"
 description: "A plain-English tour of the Neovim distribution, plugins, and tools I've built."
 date: 2026-08-16
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+menu: main
 ---
 
 ## What this section is about
